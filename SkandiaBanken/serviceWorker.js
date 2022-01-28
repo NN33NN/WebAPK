@@ -8,12 +8,13 @@ var cacheAll = false;
 var CACHE_NAME = 'webapk-cache';
 var urlsToCache = [
 	'/WebAPK/SkandiaBanken/',
-	'/WebAPK/SkandiaBanken/index.html',
 	'/WebAPK/SkandiaBanken/logo.png',
 	'/WebAPK/SkandiaBanken/manifest.json',
 	'/WebAPK/SkandiaBanken/css/main.css',
 	'/WebAPK/SkandiaBanken/js/main.js',
-	'/WebAPK/SkandiaBanken/js/jquery.min.js'
+	'/WebAPK/SkandiaBanken/js/jquery.min.js',
+	'/WebAPK/SkandiaBanken/Redirection/',
+	'/WebAPK/SkandiaBanken/Redirection/index.html'
 ];
 var urlsNotToCache = [
 	// Urls that don't need to be cached can be added here explicitly
