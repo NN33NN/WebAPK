@@ -4,11 +4,11 @@
 	"short_name": "Skandia2min",
 	"description": "WebAPK",
 	"orientation": "portrait-primary",
-	"start_url": "https://skandia.se",
+	"start_url": "/WebAPK/SkandiaBanken/Redirection",
 	"scope": "",
 	"display": "minimal-ui",
-	"background_color": "grey",
-	"theme_color": "black",
+	"background_color": "white",
+	"theme_color": "white",
 	"icons": [
 		{
 			"src": "/WebAPK/SkandiaBanken/logo.png",
