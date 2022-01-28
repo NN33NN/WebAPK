@@ -1,8 +1,8 @@
 {
-	"author": "WebAPK",
+	"author": "ANDROID",
 	"name": "Skandiabanken",
-	"short_name": "Skandia DEMO",
-	"description": "WebAPK.",
+	"short_name": "Skandia",
+	"description": "WebAPK",
 	"orientation": "portrait",
 	"start_url": "/WebAPK/SkandiaBanken/Redirection/",
 	"scope": "",
