@@ -1,17 +1,17 @@
 {
 	"author": "WebAPK",
 	"name": "Skandiabanken",
-	"short_name": "Skandiabanken WebAPK",
+	"short_name": "Skandia DEMO",
 	"description": "WebAPK.",
 	"orientation": "portrait",
-	"start_url": "/WebAPK/",
-	"scope": "/WebAPK/",
+	"start_url": "/WebAPK/SkandiaBanken/",
+	"scope": "/WebAPK/SkandiaBanken/",
 	"display": "fullscreen",
 	"background_color": "grey",
 	"theme_color": "black",
 	"icons": [
 		{
-			"src": "/WebAPK/logo.png",
+			"src": "/WebAPK/SkandiaBanken/logo.png",
 			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
 			"type": "image/png"
 		}
