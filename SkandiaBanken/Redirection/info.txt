@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/13446435/is-there-an-alternative-to-htaccess-for-github-pages
+
+https://stackoverflow.com/questions/5411538/redirect-from-an-html-page
