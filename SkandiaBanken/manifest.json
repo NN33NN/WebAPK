@@ -1,14 +1,14 @@
 {
 	"author": "ANDROID",
 	"name": "Skandiabanken",
-	"short_name": "Skandia2min",
+	"short_name": "Skandia",
 	"description": "WebAPK",
 	"orientation": "portrait-primary",
 	"start_url": "/WebAPK/SkandiaBanken/Redirection",
 	"scope": "",
-	"display": "minimal-ui",
-	"background_color": "white",
-	"theme_color": "white",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#1d3557",
 	"icons": [
 		{
 			"src": "/WebAPK/SkandiaBanken/logo.png",
