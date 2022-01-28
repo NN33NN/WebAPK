@@ -4,11 +4,8 @@
 	"short_name": "Skandia DEMO",
 	"description": "WebAPK.",
 	"orientation": "portrait",
-	"start_url": "/WebAPK/SkandiaBanken/",
-	"scope": "/WebAPK/SkandiaBanken/",
+	"start_url": "https://www.skandia.se/",
 	"display": "fullscreen",
-	"background_color": "grey",
-	"theme_color": "black",
 	"icons": [
 		{
 			"src": "/WebAPK/SkandiaBanken/logo.png",
