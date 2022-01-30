@@ -3,7 +3,7 @@
 	"short_name": "Skandia",
 	"description": "WebAPK",
 	"orientation": "portrait-primary",
-	"start_url": "/WebAPK/Clean/",
+	"start_url": "/WebAPK/Clean/Redirection/",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"theme_color": "#1d3557",
