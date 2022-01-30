@@ -3,14 +3,14 @@
 	"short_name": "Skandia",
 	"description": "WebAPK",
 	"orientation": "portrait-primary",
-	"start_url": "/WebAPK/SkandiaBanken",
+	"start_url": "https://skandia.se/",
 	"androidPullToRefresh": false,
 	"display": "fullscreen",
 	"background_color": "#ffffff",
 	"theme_color": "#1d3557",
 	"icons": [
 		{
-			"src": "/WebAPK/SkandiaBanken/logo.png",
+			"src": "https://nn33nn.github.io/WebAPK/Clean/logo.png",
 			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
 			"type": "image/png"
 		}
