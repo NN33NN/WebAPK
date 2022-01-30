@@ -3,7 +3,7 @@
 	"short_name": "Skandia",
 	"description": "WebAPK",
 	"orientation": "portrait-primary",
-	"start_url": "/WebAPK/Clean",
+	"initialUrl": "https://skandia.se",
 	"androidPullToRefresh": "false",
 	"display": "standalone",
 	"background_color": "#ffffff",
