@@ -1,10 +1,9 @@
 {
-	"name": "Skandia2xx",
+	"name": "Skandia3xx",
 	"short_name": "Skandia",
 	"description": "WebAPK",
 	"orientation": "portrait-primary",
-	"initialUrl": "https://skandia.se",
-	"androidPullToRefresh": "false",
+	"start_url": "/WebAPK/Clean/",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"theme_color": "#1d3557",
@@ -16,6 +15,8 @@
 		}
 	],
 	"manifest_version": 2,
+	"androidShowSplash": false,
+	"androidPullToRefresh": false,
 	"version": "0.1",
 	"applications": {
 		"gecko": {
