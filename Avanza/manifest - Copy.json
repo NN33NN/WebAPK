@@ -1,19 +1,11 @@
 {
-  "manifest_package": "org.chromium.webapk.test",
-  "scope_url": "https://www.avanza.se/",
-  "intent_filters": {
-    "scope_url_scheme": "https",
-    "scope_url_host": "www.avanza.se",
-    "scope_url_path_type": "android:pathPrefix",
-    "scope_url_path": "/"
-  },
 	"author": "ANDROID",
 	"name": "Avanza Web",
 	"short_name": "Avanza Web",
 	"description": "Webbrowser Avanza version",
 	"orientation": "portrait-primary",
 	"start_url": "/WebAPK/Avanza/Redirection",
-	"scope": "https://www.avanza.se/",
+	"scope": "https://avanza.se/",
 	"display": "fullscreen",
 	"background_color": "#ffffff",
 	"theme_color": "#1d3557",
