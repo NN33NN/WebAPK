@@ -1,0 +1,23 @@
+https://developer.mozilla.org/en-US/docs/Web/Manifest
+
+Implement: https://developers.google.com/web/updates/2017/11/overscroll-behavior
+
+https://stackoverflow.com/questions/37395561/how-to-hide-a-mobile-browsers-address-bar
+
+"intent_filters": {
+  "scope_url_scheme": "https",
+  "scope_url_host": "foo.com",
+  "scope_url_path_type": "android:pathPrefix",
+  "scope_url_path": "/bar/"
+},
+"start_url": "https://foo.com/bar/baz/start.html",
+
+
+https://developers.google.com/web/fundamentals/native-hardware/fullscreen/
+
+
+Manifests:
+https://github.com/Lekensteyn/apk-downloader/blob/master/manifest.json
+
+
+https://stackoverflow.com/questions/29008194/disabling-androids-chrome-pull-down-to-refresh-feature
