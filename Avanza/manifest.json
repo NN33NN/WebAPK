@@ -5,7 +5,7 @@
 	"description": "Webbrowser Avanza version",
 	"orientation": "portrait-primary",
 	"start_url": "/WebAPK/Avanza/Redirection",
-	"scope": "https://www.avanza.se/",
+	"scope": "https://avanza.se/",
 	"display": "fullscreen",
 	"background_color": "#ffffff",
 	"theme_color": "#1d3557",
