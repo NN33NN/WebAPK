@@ -12,7 +12,7 @@
 	"short_name": "Avanza Web",
 	"description": "Webbrowser Avanza version",
 	"orientation": "portrait-primary",
-	"start_url": "https://www.avanza.se",
+	"start_url": "/Webapk/",
 	"scope": "https://www.avanza.se/",
 	"display": "fullscreen",
 	"background_color": "#ffffff",
