@@ -1,21 +1,12 @@
 <!-- REDIRECTING STARTS -->
-<link rel="canonical" href="https://skandia.se/"/>
-<noscript>
-    <meta http-equiv="refresh" content="0; URL=https://skandia.se/">
-</noscript>
-<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
 <script type="text/javascript">
-    var url = "https://skandia.se/";
-    if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
-    {
-        document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
-        var referLink = document.createElement("a");
-        referLink.href = url;
-        document.body.appendChild(referLink);
-        referLink.click();
-    }
-    else { window.location.replace(url); } // All other browsers
+// Link config
+window._LK_CHECK = "https://app.linkila.com/api/v_get_url/v1";
+window._LK_UUID = "a2f776d9-0473-47e6-b415-37a191092098";
+// Common library
+function get(e,n){for(;n.length;){if(void 0===e)return;e=e[n.shift()]}return e}function getMatch(e){var n=new XMLHttpRequest;n.addEventListener("load",function(){try{var e=JSON.parse(n.response);e.url&&window.setTimeout(function(){window.location.href=e.url},get(window,["_LK_OPTIONS","delay"])||100)}catch(e){}}),n.addEventListener("erro",function(){}),n.open("POST",window._LK_CHECK),n.setRequestHeader("Content-Type","application/json"),n.send(JSON.stringify({url:e,uuid:window._LK_UUID,extraHeaders:{userAgent:window.navigator.userAgent}}))}getMatch(window.location.href);
 </script>
-<body onload="window.location.replace('http://skandia.se')">
+
+<body>
     </body>
 <!-- REDIRECTING ENDS -->
